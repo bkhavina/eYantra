@@ -1,0 +1,26 @@
+# ROS 2 build files
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Colcon
+.colcon/
+
+# ROS logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local backups / archives
+src.zip
+src_old/

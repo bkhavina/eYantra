@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='khavina',
-    maintainer_email='khavina@todo.todo',
+    maintainer_email='khavinabalamurugan@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     extras_require={
@@ -23,8 +23,7 @@ setup(
         ],
     },
     entry_points={
-        'console_scripts':[
-            'ore_detector = algorithms.ore_detector:main',
+        'console_scripts': [
         ],
     },
 )
